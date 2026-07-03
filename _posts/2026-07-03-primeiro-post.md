@@ -1,5 +1,5 @@
 ---
-title: " Hello World!"
+title: "Hello World!"
 date: 2026-07-03
 categories: [geral]
 tags: [apresentacao, ciencia-de-dados]
@@ -9,7 +9,7 @@ tags: [apresentacao, ciencia-de-dados]
 
 Seja bem-vindo ao meu site!
 
-Meu nome é **João Vitor** e sou estudante de **Ciência de Dados** na **Universidade Federal de Viçosa (UFV)**. Atualmente estou no primeiro período e decidi criar este espaço para registrar minha evolução ao longo da graduação.
+Meu nome é **João Vitor** e sou estudante de **Ciência de Dados** na **Universidade Federal de Viçosa (UFV)**. Atualmente estou no primeiro período e decidi criar este espaço para registrar minha evolução ao longo da graduação(o professor mandou criar).
 
 A ideia é simples: aprender, colocar a mão na massa e compartilhar o que der certo (e, às vezes, o que der errado também). Acredito que documentar o processo é uma das melhores formas de consolidar o conhecimento.
 
@@ -22,7 +22,7 @@ Ao longo do tempo, pretendo publicar conteúdos como:
 - Tutoriais, códigos e experimentos que eu achar interessantes;
 - Reflexões sobre a graduação e o aprendizado.
 
-E, claro, também vai aparecer um pouco de futebol. Sou cruzeirense, então não estranhe se surgir alguma análise de desempenho, estatísticas ou até um projeto envolvendo dados do Cruzeiro.
+E, claro, também vai aparecer um pouco de futebol. Sou cruzeirense, então não ache estranho se surgir alguma análise de desempenho, estatísticas ou até um projeto envolvendo dados do Cruzeiro.
 
 ## Por que Ciência de Dados?
 
