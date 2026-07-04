@@ -1,8 +1,18 @@
 ---
 permalink: /about/
-title: "About"
+title: "Um pouco sobre mim"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Sou o João Vitor, estudante de Ciência de Dados na **Universidade Federal de Viçosa (UFV)**.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Estou terminando o primeiro semestre do curso — uma mistura de matemática, código e reflexão sobre como usar dados de forma responsável.
+
+## Um pouco além da faculdade
+
+- Moro em Viçosa (MG), mas sou de Araponga, na Zona da Mata.
+- Jogo futebol com regularidade e levo a parte mental do esporte a sério.
+- Sou cruzeirense roxo.
+
+## O que busco aqui
+
+Ainda estou no início da jornada com dados, mas gosto da ideia de transformar informação bruta em algo que faça sentido — seja em um projeto de faculdade, uma análise besta de futebol, ou qualquer curiosidade que apareça pelo caminho.
